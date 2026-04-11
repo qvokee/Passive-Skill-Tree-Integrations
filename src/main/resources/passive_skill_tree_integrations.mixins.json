@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "package": "com.lota.passiveskilltreeintegrations.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "passive_skill_tree_integrations.refmap.json",
+  "mixins": [],
+  "client": [
+    "SkillButtonMixin",
+    "SkillTreeWidgetsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

@@ -1,8 +1,8 @@
-package com.lota.epicfightskilltree.event;
+package com.lota.passiveskilltreeintegrations.event;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
-import com.lota.epicfightskilltree.init.EFSTEventListeners;
+import com.lota.passiveskilltreeintegrations.init.EFSTEventListeners;
 import daripher.skilltree.client.tooltip.TooltipHelper;
 import daripher.skilltree.client.widget.editor.SkillTreeEditor;
 import daripher.skilltree.data.serializers.SerializationHelper;

@@ -1,1 +1,1 @@
-rootProject.name = "epicfight-skilltree-compat"
+rootProject.name = "Passive-Skill-Tree-Integrations"

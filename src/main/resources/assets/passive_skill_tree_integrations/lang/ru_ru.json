@@ -1,0 +1,8 @@
+{
+    "event_listener.passive_skill_tree_integrations.epic_dodge_success": "После успешного уворота, %s",
+    "event_listener.passive_skill_tree_integrations.epic_deal_damage": "При нанесении урона через Epic Fight, %s",
+    "event_listener.passive_skill_tree_integrations.epic_take_damage": "При получении урона через Epic Fight, %s",
+    "event_listener.passive_skill_tree_integrations.epic_skill_cast": "При использовании навыка Epic Fight, %s",
+    "event_listener.passive_skill_tree_integrations.epic_basic_attack": "При обычной атаке, %s",
+    "tooltip.passive_skill_tree_integrations.skill_guide_hint": "Удерживайте Shift для просмотра гайда"
+}

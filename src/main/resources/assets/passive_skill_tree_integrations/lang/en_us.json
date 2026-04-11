@@ -1,0 +1,8 @@
+{
+  "event_listener.passive_skill_tree_integrations.epic_dodge_success": "After a successful dodge, %s",
+  "event_listener.passive_skill_tree_integrations.epic_deal_damage": "When dealing damage with Epic Fight combat, %s",
+  "event_listener.passive_skill_tree_integrations.epic_take_damage": "When taking damage via Epic Fight combat, %s",
+  "event_listener.passive_skill_tree_integrations.epic_skill_cast": "When casting an Epic Fight skill, %s",
+  "event_listener.passive_skill_tree_integrations.epic_basic_attack": "When performing a basic attack, %s",
+  "tooltip.passive_skill_tree_integrations.skill_guide_hint": "Hold Shift to view guide"
+}

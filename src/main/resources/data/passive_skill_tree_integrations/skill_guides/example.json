@@ -1,0 +1,5 @@
+{
+  "skill": "skilltree:new_skill_1",
+  "item": "lotaguide:signed_image_book",
+  "nbt": "{ImageBookData:{authorName:\"GuideAuthor\",pages:[{imageUrl:\"https://example.com/image.png\",text:\"Example guide page\"}]}}"
+}

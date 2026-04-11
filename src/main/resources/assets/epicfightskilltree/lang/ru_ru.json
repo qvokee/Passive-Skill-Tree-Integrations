@@ -1,7 +1,0 @@
-{
-    "event_listener.epicfightskilltree.epic_dodge_success": "После успешного уворота, %s",
-    "event_listener.epicfightskilltree.epic_deal_damage": "При нанесении урона через Epic Fight, %s",
-    "event_listener.epicfightskilltree.epic_take_damage": "При получении урона через Epic Fight, %s",
-    "event_listener.epicfightskilltree.epic_skill_cast": "При использовании навыка Epic Fight, %s",
-    "event_listener.epicfightskilltree.epic_basic_attack": "При обычной атаке, %s"
-}
